@@ -1,5 +1,5 @@
-%%% This script requires an input of a csv file with a list of webpages
-%%% The script will crawl each page, looking for a specified date pattern and output those dates for each page in a new csv file
+### This script requires an input of a csv file with a list of webpages
+### The script will crawl each page, looking for a specified date pattern and output those dates for each page in a new csv file
 
 
 
