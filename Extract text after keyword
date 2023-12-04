@@ -39,4 +39,4 @@ def extract_next_100_chars_from_csv(input_file, output_file):
 # Example usage
 input_csv_file = r'C:\Users\...\Input.csv'  # Replace with the path to your input CSV file
 output_csv_file = r'C:\Users\...\Output.csv'  # Replace with the desired output CSV file path
-extract_next_100_chars_from_csv(input_csv_file, output_csv_file)
+extract_next_100_chars_from_csv(input_csv_file, output_csv_file) 
