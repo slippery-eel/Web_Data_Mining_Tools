@@ -1,5 +1,5 @@
-%%% This script requires an input of a csv file with a list of webpages
-%%% The script will crawl each page and output every hyperlink that is contained within each page, and output this list in a new csv file
+### This script requires an input of a csv file with a list of webpages
+### The script will crawl each page and output every hyperlink that is contained within each page, and output this list in a new csv file
 
 
 import csv
